@@ -3,6 +3,7 @@
 ## Notes: Dziennik podroznika: nowe strefy, poziomy, pierwsze odkrycia. / Traveler's journal: new zones, levels, first discoveries.
 ## Author: SGlinka7
 ## Version: @project-version@
+## X-Curse-Project-ID: 1805709
 ## SavedVariables: DziennikDB
 ## IconTexture: Interface\Icons\INV_Misc_Book_09
 
