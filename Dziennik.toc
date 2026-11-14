@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Dziennik
+## Notes: Dziennik podroznika: nowe strefy, poziomy, pierwsze odkrycia. / Traveler's journal: new zones, levels, first discoveries.
+## Author: SGlinka7
+## Version: 1.0.0
+## SavedVariables: DziennikDB
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+
+Locale.lua
+Core.lua
+Main.lua
